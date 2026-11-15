@@ -22,3 +22,6 @@ __pycache__/
 
 # Environment variables
 .env
+
+# Dataset (downloaded automatically by the notebook, must not be submitted)
+data/
